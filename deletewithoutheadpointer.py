@@ -14,7 +14,8 @@
 	}
 '''
 
-
+#Time Complexity: O(1)
+#Space Complexity: O(1)
 class Solution:
     # Function to delete a node in the middle of a singly linked list.
     def deleteNode(self, node):
